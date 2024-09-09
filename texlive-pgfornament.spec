@@ -1,6 +1,6 @@
 Name:		texlive-pgfornament
-Version:	55326
-Release:	2
+Version:	72029
+Release:	1
 Summary:	Drawing of Vectorian ornaments with PGF/TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgfornament
