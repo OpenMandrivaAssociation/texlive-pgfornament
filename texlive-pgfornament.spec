@@ -3,7 +3,7 @@ Version:	72029
 Release:	1
 Summary:	Drawing of Vectorian ornaments with PGF/TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pgfornament
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pgfornament
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgfornament.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pgfornament.doc.r%{version}.tar.xz
